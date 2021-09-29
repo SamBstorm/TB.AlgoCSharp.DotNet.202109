@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos01", "Exos01\Exos01.csproj", "{D1BBE40D-40F5-4521-8AC3-CDB3F5DCBA3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos02", "Exos02\Exos02.csproj", "{67904B59-7D2B-49F6-9F09-D08C2A38BDB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos03", "Exos03\Exos03.csproj", "{433527D2-61FE-4AC2-8564-2B51F1F097B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BBE40D-40F5-4521-8AC3-CDB3F5DCBA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BBE40D-40F5-4521-8AC3-CDB3F5DCBA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BBE40D-40F5-4521-8AC3-CDB3F5DCBA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BBE40D-40F5-4521-8AC3-CDB3F5DCBA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67904B59-7D2B-49F6-9F09-D08C2A38BDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67904B59-7D2B-49F6-9F09-D08C2A38BDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67904B59-7D2B-49F6-9F09-D08C2A38BDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67904B59-7D2B-49F6-9F09-D08C2A38BDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433527D2-61FE-4AC2-8564-2B51F1F097B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433527D2-61FE-4AC2-8564-2B51F1F097B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433527D2-61FE-4AC2-8564-2B51F1F097B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433527D2-61FE-4AC2-8564-2B51F1F097B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53DFF32A-2582-439D-B50E-270C08F509D7}
+	EndGlobalSection
+EndGlobal
