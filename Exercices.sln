@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos01", "Exos01\Exos01.csproj", "{D1BBE40D-40F5-4521-8AC3-CDB3F5DCBA3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exos01", "Exos01\Exos01.csproj", "{D1BBE40D-40F5-4521-8AC3-CDB3F5DCBA3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos02", "Exos02\Exos02.csproj", "{67904B59-7D2B-49F6-9F09-D08C2A38BDB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exos02", "Exos02\Exos02.csproj", "{67904B59-7D2B-49F6-9F09-D08C2A38BDB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos03", "Exos03\Exos03.csproj", "{433527D2-61FE-4AC2-8564-2B51F1F097B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exos03", "Exos03\Exos03.csproj", "{433527D2-61FE-4AC2-8564-2B51F1F097B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exos04", "Exos04\Exos04.csproj", "{D13EA0BF-45BE-4D47-9B64-27202E371A35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos05", "Exos05\Exos05.csproj", "{BA36F632-D0B8-43BC-8280-01DE9E10A817}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{433527D2-61FE-4AC2-8564-2B51F1F097B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{433527D2-61FE-4AC2-8564-2B51F1F097B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{433527D2-61FE-4AC2-8564-2B51F1F097B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13EA0BF-45BE-4D47-9B64-27202E371A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13EA0BF-45BE-4D47-9B64-27202E371A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13EA0BF-45BE-4D47-9B64-27202E371A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13EA0BF-45BE-4D47-9B64-27202E371A35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA36F632-D0B8-43BC-8280-01DE9E10A817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA36F632-D0B8-43BC-8280-01DE9E10A817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA36F632-D0B8-43BC-8280-01DE9E10A817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA36F632-D0B8-43BC-8280-01DE9E10A817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
