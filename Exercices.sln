@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exos04", "Exos04\Exos04.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos05", "Exos05\Exos05.csproj", "{BA36F632-D0B8-43BC-8280-01DE9E10A817}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos08", "Exos08\Exos08.csproj", "{C70CB3DA-F466-4536-8854-CCC69EC69F8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BA36F632-D0B8-43BC-8280-01DE9E10A817}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA36F632-D0B8-43BC-8280-01DE9E10A817}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA36F632-D0B8-43BC-8280-01DE9E10A817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70CB3DA-F466-4536-8854-CCC69EC69F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70CB3DA-F466-4536-8854-CCC69EC69F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70CB3DA-F466-4536-8854-CCC69EC69F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70CB3DA-F466-4536-8854-CCC69EC69F8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
