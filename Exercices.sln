@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTryParse", "DemoTryPars
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos17", "Exos17\Exos17.csproj", "{9EC4775A-DD88-4CAF-898D-D564F4B25054}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos19", "Exos19\Exos19.csproj", "{70C4B416-DA42-4CEB-AEE7-785B41B273B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos20", "Exos20\Exos20.csproj", "{76234EA3-5476-4C4F-9E58-9647ADD5869F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{9EC4775A-DD88-4CAF-898D-D564F4B25054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EC4775A-DD88-4CAF-898D-D564F4B25054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EC4775A-DD88-4CAF-898D-D564F4B25054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C4B416-DA42-4CEB-AEE7-785B41B273B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C4B416-DA42-4CEB-AEE7-785B41B273B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C4B416-DA42-4CEB-AEE7-785B41B273B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C4B416-DA42-4CEB-AEE7-785B41B273B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76234EA3-5476-4C4F-9E58-9647ADD5869F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76234EA3-5476-4C4F-9E58-9647ADD5869F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76234EA3-5476-4C4F-9E58-9647ADD5869F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76234EA3-5476-4C4F-9E58-9647ADD5869F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
