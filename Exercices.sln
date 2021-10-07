@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos20", "Exos20\Exos20.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos21", "Exos21\Exos21.csproj", "{A8D5BF71-E14F-4B09-A999-2F148756449E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos22", "Exos22\Exos22.csproj", "{463250C7-7542-4B36-BDBB-A702348DA285}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{A8D5BF71-E14F-4B09-A999-2F148756449E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8D5BF71-E14F-4B09-A999-2F148756449E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8D5BF71-E14F-4B09-A999-2F148756449E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463250C7-7542-4B36-BDBB-A702348DA285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463250C7-7542-4B36-BDBB-A702348DA285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463250C7-7542-4B36-BDBB-A702348DA285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463250C7-7542-4B36-BDBB-A702348DA285}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
