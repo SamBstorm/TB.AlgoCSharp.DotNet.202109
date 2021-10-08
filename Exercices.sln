@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMethode", "DemoMethode\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos28", "Exos28\Exos28.csproj", "{D9A1D6AC-1932-4CA2-9F6B-C3FD2913DEFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoRandom", "DemoRandom\DemoRandom.csproj", "{DF6DA832-7D51-47C7-B7C4-4145A861C73B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{D9A1D6AC-1932-4CA2-9F6B-C3FD2913DEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9A1D6AC-1932-4CA2-9F6B-C3FD2913DEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9A1D6AC-1932-4CA2-9F6B-C3FD2913DEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF6DA832-7D51-47C7-B7C4-4145A861C73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6DA832-7D51-47C7-B7C4-4145A861C73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6DA832-7D51-47C7-B7C4-4145A861C73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6DA832-7D51-47C7-B7C4-4145A861C73B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
