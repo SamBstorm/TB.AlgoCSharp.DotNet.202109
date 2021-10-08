@@ -61,5 +61,6 @@ namespace Exos22
                 Console.WriteLine(tab3[index]);
             }
         }
+    
     }
 }
