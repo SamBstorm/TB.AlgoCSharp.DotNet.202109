@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eval-Login", "Eval-Login\Ev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eval-Fibonacci", "Eval-Fibonacci\Eval-Fibonacci.csproj", "{1F5D8B90-6E23-4011-A9DA-CB38A7BB7901}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eval-ToDoList", "Eval-ToDoList\Eval-ToDoList.csproj", "{3328A6A8-1089-42E7-9B58-03CB7CE00817}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{1F5D8B90-6E23-4011-A9DA-CB38A7BB7901}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F5D8B90-6E23-4011-A9DA-CB38A7BB7901}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F5D8B90-6E23-4011-A9DA-CB38A7BB7901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3328A6A8-1089-42E7-9B58-03CB7CE00817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3328A6A8-1089-42E7-9B58-03CB7CE00817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3328A6A8-1089-42E7-9B58-03CB7CE00817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3328A6A8-1089-42E7-9B58-03CB7CE00817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -24,6 +24,7 @@ namespace Eval_Fibonacci
 
             if (nombre == fibo1) Console.WriteLine($"{nombre} est bien un nombre de la suite de Fibonacci : F{index}");
             else Console.WriteLine($"{nombre} n'est pas un nombre de la suite de Fibonacci");
+
         }
     }
 }
